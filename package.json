@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-with-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "errorhandler": "1.5.1",
+    "express": "4.17.0",
+    "mongoose": "5.5.10",
+    "morgan": "1.9.1"
+  }
+}
